@@ -1,0 +1,29 @@
+h1{
+	color: red;
+	background-color: black;
+	text-align: center;
+}
+h2{ 
+    color: red;
+    background-color: black;
+	text-align: center;
+ }
+ 
+ img{
+ 	width: 415px;
+ }
+ p{font-size: 1.2rem;
+   color: #9e2219;}
+
+ h3{ 
+ color: red;
+ background-color: black;
+ text-align: center; }
+
+ img{ border: 20px solid purple; }
+
+ .aa{ border: 20px dashed #f21d99; }
+
+.container{background-color:#fcc7f6;}
+
+
